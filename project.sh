@@ -1,1 +1,1 @@
-echo "what can I do now for this porject in this stage"
+echo "what can I do now for this porject in this stage of this"
